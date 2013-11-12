@@ -296,12 +296,12 @@ Proceso complex
 				Mostrar "Ganastes! Los colores eran " c1 " " c2 " " c3 " " c4 " " c5
 				termino = 1
 			FinSi
-			
-			// Comprobar si el usuario quiere jugar otra vez
-			Mostrar "Jugar otra vez? [s|n]"
-			Leer jugar
-			
 		FinMientras
+		
+		// Comprobar si el usuario quiere jugar otra vez
+		Mostrar "Jugar otra vez? [s|n]"
+		Leer jugar
+		
 	FinMientras
 	
 FinProceso
