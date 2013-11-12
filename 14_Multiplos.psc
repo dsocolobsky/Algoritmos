@@ -2,6 +2,8 @@
 
 Proceso Multiplos
 	Para i <- 1 Hasta 100
-		Mostrar i*2 y i*3
+		Si i mod 6 = 0
+			mostrar i
+		FinSi
 	FinPara 
 FinProceso
