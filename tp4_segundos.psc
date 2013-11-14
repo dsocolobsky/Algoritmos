@@ -1,4 +1,4 @@
-// Segundos en un numero de dias
+// TP Ej 4: Segundos en un numero de dias
 Proceso segs
 	segs <- 0
 	dias <- 0

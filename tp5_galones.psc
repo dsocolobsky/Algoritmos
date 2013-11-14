@@ -1,4 +1,4 @@
-// Cambiar de galon a litro y calcular precio
+// TP Ej 5: Cambiar de galon a litro y calcular precio
 Proceso galones
 	galon_litro  <- 3.75 // Cuantos litros por galon
 	precio_litro <- 4.89 // Cuanto vale el litro

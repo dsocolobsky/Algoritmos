@@ -1,4 +1,4 @@
-// Intercambiar los valores de dos variables
+// TP. Ej 3: Intercambiar los valores de dos variables
 Proceso intercambio
 	a <- 0
 	b <- 0

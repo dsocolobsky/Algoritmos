@@ -1,4 +1,4 @@
-// Hallar hipotenusa dado los catetos
+// TP Ej 1: Hallar hipotenusa dado los catetos
 Proceso pitagoras
 	cateto_a <- 0.00
 	cateto_b <- 0.00
